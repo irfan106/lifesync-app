@@ -1,0 +1,22 @@
+export const QUOTES = [
+  "The only way to do great work is to love what you do.",
+  "Discipline is the bridge between goals and accomplishment.",
+  "Your future is created by what you do today.",
+  "Small progress is still progress.",
+  "Be stronger than your strongest excuse.",
+  "Success is the sum of small efforts repeated daily.",
+  "Dream big. Start small. Act now.",
+  "Don't watch the clock; do what it does. Keep going.",
+  "The secret of getting ahead is getting started.",
+  "It always seems impossible until it's done.",
+  "You don't have to be great to start, but you have to start to be great.",
+  "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+  "Believe you can and you're halfway there.",
+  "Hardships often prepare ordinary people for an extraordinary destiny.",
+  "Don't limit your challenges. Challenge your limits.",
+  "Focus on the step in front of you, not the whole staircase.",
+  "Motivation is what gets you started. Habit is what keeps you going.",
+  "The harder you work for something, the greater you'll feel when you achieve it.",
+  "Don't stop when you're tired. Stop when you're done.",
+  "Discipline is choosing between what you want now and what you want most."
+];
