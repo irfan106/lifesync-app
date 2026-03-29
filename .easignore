@@ -1,0 +1,10 @@
+node_modules/
+.expo/
+npm-debug.log
+yarn-error.log
+.idea/
+.vscode/
+*.jks
+*.keystore
+android/
+ios/
